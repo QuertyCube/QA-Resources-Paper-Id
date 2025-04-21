@@ -1,0 +1,18 @@
+{
+  "name": "paper-id-testhomework",
+  "version": "1.0.0",
+  "description": "Install the required dependencies:",
+  "main": "Api_test.js",
+  "type": "module",
+  "scripts": {
+   "test": "mocha Api_test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.8.4",
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
