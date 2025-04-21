@@ -1,11 +1,11 @@
 # Kevin - QA Engineer Paper.id Home Assignment
 
-📄 **Task 1, Task 2, and Task 3** can be accessed via the following Google Docs link:  
+📄 **Task 1, Task 2, and Task 3** can be accessed via the following Google Docs link:
 [https://docs.google.com/document/d/11iok5RBSfgkJk4RpSzrUNzIS5lCMNII3viJjTSzK8Qw/edit?usp=sharing](https://docs.google.com/document/d/11iok5RBSfgkJk4RpSzrUNzIS5lCMNII3viJjTSzK8Qw/edit?usp=sharing)
 
 ---
 
-## Task 5: API Testing
+## Task 5: API Testing 
 
 ### 🧪 Installing Dependencies
 
