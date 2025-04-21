@@ -5,7 +5,21 @@
 
 ---
 
+This project focuses on testing the **functionality** and **performance** of the [Reqres API](https://reqres.in/), a public API for testing and prototyping purposes.
+
+The assignment is divided into the following components:
+
+- **API Functional Testing**: Verifies API behavior, including HTTP status codes, response structure, and data integrity.
+- **Performance Testing**: Measures performance under load, capturing response time, latency, error rate, and throughput.
+
 ## Task 5: API Testing 
+
+**Purpose**: Validate the functionality of the Reqres API using the **Mocha** testing framework and **Chai** assertion library.
+
+**Tests Include**:
+- Verifying HTTP status code (200 OK).
+- Validating response structure and schema.
+- Checking that user data is present and array length is correct.
 
 ### 🧪 Installing Dependencies
 
@@ -27,6 +41,18 @@ npm test
 ---
 
 ## Task 6: Performance Testing
+
+**Purpose**: Performance testing of the Reqres API using the k6 load testing tool.
+
+**Metrics Captured**:
+- Response Time: Total time taken to receive a response.
+- Latency: Time to first byte.
+- Error Rate: Percentage of requests that failed.
+- Total Requests: Number of requests sent during the test.
+
+**Test Configuration**:
+- Simulates a ramp-up to 10 users, holds the load for 1 minute, and then ramps down.
+- Ensures 95% of requests complete within 500ms and the error rate is below 1%.
 
 ### 🚀 Installing K6
 
