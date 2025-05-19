@@ -1,6 +1,6 @@
-# Kevin - QA Engineer Paper.id Home Assignment
+# QA & Testing Resources for Paper.id – Manual, API, Performance, Bugs & Improvements
 
-📄 **Task 1, Task 2, and Task 3** can be accessed via the following Google Docs link:
+📄 **Test Cases, Bug Reports** can be accessed via the following Google Docs link:
 [https://docs.google.com/document/d/11iok5RBSfgkJk4RpSzrUNzIS5lCMNII3viJjTSzK8Qw/edit?usp=sharing](https://docs.google.com/document/d/11iok5RBSfgkJk4RpSzrUNzIS5lCMNII3viJjTSzK8Qw/edit?usp=sharing)
 
 ---
@@ -12,7 +12,7 @@ The assignment is divided into the following components:
 - **API Functional Testing**: Verifies API behavior, including HTTP status codes, response structure, and data integrity.
 - **Performance Testing**: Measures performance under load, capturing response time, latency, error rate, and throughput.
 
-## Task 5: API Testing 
+## API Testing 
 
 **Purpose**: Validate the functionality of the Reqres API using the **Mocha** testing framework and **Chai** assertion library.
 
@@ -40,7 +40,7 @@ npm test
 
 ---
 
-## Task 6: Performance Testing
+## Performance Testing
 
 **Purpose**: Performance testing of the Reqres API using the k6 load testing tool.
 
